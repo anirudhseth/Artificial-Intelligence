@@ -1,0 +1,3 @@
+[submodule "A3Martian"]
+	path = A3Martian
+	url = https://github.com/jackson-waschura/A3Martian.git
