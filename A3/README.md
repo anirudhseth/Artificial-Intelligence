@@ -1,6 +1,15 @@
 ## DD2380 Artificial Intelligence A3 Project
 
 This repo contains the code for Group 12's A3 project (updated Saturday, October 12).
+### TEAM
+<ul>
+<li>Anirudh</li>
+<li>Jackson</li>
+<li>Margnus</li>
+<li>Matej</li>
+<li>Prashant</li>
+<ul>
+
 
 ### Implementing New Algorithms
 
